@@ -1,8 +1,11 @@
 package Chapter2;
 
+import java.awt.image.BandCombineOp;
 import java.util.Scanner;
 
 public class Chapter2 {
+
+
     public static void main(String[] args) {
 
         // declaring a variable
@@ -121,9 +124,56 @@ public class Chapter2 {
         System.out.println("How much does a coffee cost?");
         double costPerCoffee = Double.parseDouble(keyboard.nextLine());
 
-        System.out.println("That will cost you $" + coffeesForToday * costPerCoffee);
+        double totalCostForCoffee = coffeesForToday * costPerCoffee;
+
+        System.out.println("How much money do you have");
+        double moneyInPocket = Double.parseDouble(keyboard.nextLine());
+
+        // if the expression inside the () is true, the if block runs from { to }
+        if ( moneyInPocket >= totalCostForCoffee ) {
+            System.out.println("That will cost you $" +totalCostForCoffee);
+        } else { // if the if expression False or not True
+            System.out.println("You don't have enough monet for that");
+
+        }
+
+        System.out.println("My Coffee Menu");
+        System.out.println("$2   Coffee");
+        System.out.println("$3.5  Espresso");
+        System.out.println("$4   Latte");
+
+        String order = keyboard.nextLine();
+
+        // can't use == with strings
+        //if ( order.equalsIgnoreCase(anotherString: "coffee")){
+          // System.out.println("That's $1 for coffee");
+    //    } //else if ( order.equalsIgnoreCase(anotherString: "espresso")){
+           // System.out.println("That's $1.5 for espresso");
+    //    } //else if ( order.equalsIgnoreCase(anotherString: "latte")){
+            //System.out.println("That's $1.5 for latte");
+    //    } //else{
+            //System.out.println("I don't sell that");
+    //    }
+
+        double total = 0;
+
+        String moreEntries = "y";
+
+        // will check if it is true, and run if it is
+       // while ( moreEntries.equalsIgnoreCase(anotherString: "y")){
+            System.out.println("Enter a receipt");
+            double value = Double.parseDouble(keyboard.nextLine());
+        total += value;
+
+        System.out.println("Do you have more receipts? (y/n)");
+        moreEntries = keyboard.nextLine();
 
 
+
+
+       System.out.println("That will cost you $" + coffeesForToday * costPerCoffee);
+
+       System.out.println("Total receipts $" + total);
 
 
     }
