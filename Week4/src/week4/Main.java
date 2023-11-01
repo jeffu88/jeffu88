@@ -17,7 +17,7 @@ public class Main {
         // false && true == false
         // false && false == false
 
-        if ( age < 25 && gender.equalsIgnoreCase(anotherString: "n")){
+        if ((age < 25) && gender.equalsIgnoreCase("n")){
             System.out.println("Your insurance rate is $250/month");
         }  else if ( age < 25) {
             System.out.println("Your insurance rate is $200/month");
@@ -39,7 +39,7 @@ public class Main {
 
         if ( annualIncome > 1_000_000 ||
                 ( annualIncome > 50_000 &&
-                        previousBankruptcies.equalsIgnoreCase( anotherString: "n")) ){
+                        previousBankruptcies.equalsIgnoreCase("n")) ){
             System.out.println("Here is your loan");
         }   else{
             System.out.println("No loan for you!");
@@ -52,9 +52,9 @@ public class Main {
         String playAgain = keyboard.nextLine();
 
         // while play again is NOT equal to N
-        while ( !playAgain.equalsIgnoreCase( anotherString: "n")){
+        while ( !playAgain.equalsIgnoreCase("n")){
         System.out.println("Do you want to play again? (y/n)");
-        String playAgain = keyboard.nextLine();
+            playAgain = keyboard.nextLine();
         }
 
     }

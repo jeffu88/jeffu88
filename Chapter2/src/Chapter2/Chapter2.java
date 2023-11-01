@@ -144,36 +144,37 @@ public class Chapter2 {
 
         String order = keyboard.nextLine();
 
-        // can't use == with strings
-        //if ( order.equalsIgnoreCase(anotherString: "coffee")){
-          // System.out.println("That's $1 for coffee");
-    //    } //else if ( order.equalsIgnoreCase(anotherString: "espresso")){
-           // System.out.println("That's $1.5 for espresso");
-    //    } //else if ( order.equalsIgnoreCase(anotherString: "latte")){
-            //System.out.println("That's $1.5 for latte");
-    //    } //else{
-            //System.out.println("I don't sell that");
-    //    }
+        if ( order.equalsIgnoreCase("coffee")){
+            System.out.println("That's $1 for coffee");
+        } else if ( order.equalsIgnoreCase("espresso")){
+            System.out.println("That's $1.5 for espresso");
+        }else if ( order.equalsIgnoreCase("latte")){
+            System.out.println("That's $2 for latte");
+        } else{
+            System.out.println("I don't sell that");
+        }
 
         double total = 0;
 
         String moreEntries = "y";
 
-        // will check if it is true, and run if it is
-       // while ( moreEntries.equalsIgnoreCase(anotherString: "y")){
+        // will check if it's true, and run if it is
+        while ( moreEntries.equalsIgnoreCase("y")){
             System.out.println("Enter a receipt");
             double value = Double.parseDouble(keyboard.nextLine());
-        total += value;
+            total += value;
 
-        System.out.println("Do you have more receipts? (y/n)");
-        moreEntries = keyboard.nextLine();
+            System.out.println("Do you have more receipts? (y/n)");
+            moreEntries = keyboard.nextLine();
 
 
 
 
        System.out.println("That will cost you $" + coffeesForToday * costPerCoffee);
 
-       System.out.println("Total receipts $" + total);
+        } // after the loop gets to the end, it goes back to the while express, and if it's true, runs again
+
+        System.out.println("Total receipts $" + total);
 
 
     }
