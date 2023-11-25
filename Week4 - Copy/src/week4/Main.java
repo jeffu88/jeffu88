@@ -144,7 +144,7 @@ public class Main {
         while (!pillColor.equalsIgnoreCase("blue") &&
         !pillColor.equalsIgnoreCase("red")){
             System.out.println("Do you want the blue pill or the red  pill?");
-            pillColor = keyboard.nextLine();
+            pillColor = keyboard.nextLine(); 
         }
 
         // declaration; test; update;
