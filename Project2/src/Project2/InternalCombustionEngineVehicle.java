@@ -1,6 +1,43 @@
 package Project2;
 
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
 public class InternalCombustionEngineVehicle {
+
+
+    public class InternalCombustionEngineVehicleTest {
+
+        @Test
+        public void testAddGas() {
+            InternalCombustionEngineVehicle car = new InternalCombustionEngineVehicle("Ford", "Mustang", "Red", 10, 50, 30);
+
+            // Test adding 20 liters of gas
+            car.addGas(20);
+            assertEquals(50, car.getCurrentLitersInTank()); // Ensure it doesn't exceed maxLitersInTank
+        }
+
+        @Test
+        public void testDriveWithEnoughGas() {
+            InternalCombustionEngineVehicle car = new InternalCombustionEngineVehicle("Ford", "Mustang", "Red", 10, 50, 30);
+
+            // Test driving for 100 kilometers with enough gas
+            boolean result = car.drive(100);
+            assertTrue(result);
+            assertEquals(20, car.getCurrentLitersInTank()); // Ensure gas is consumed correctly
+        }
+
+        @Test
+        public void testDriveWithoutEnoughGas() {
+            InternalCombustionEngineVehicle car = new InternalCombustionEngineVehicle("Ford", "Mustang", "Red", 10, 50, 20);
+
+            // Test driving for 100 kilometers without enough gas
+            boolean result = car.drive(100);
+            assertFalse(result);
+            assertEquals(0, car.getCurrentLitersInTank()); // Ensure gas is depleted
+        }
+    }
+
     private int currentLitersInTank;
     private int kilometersPerLiter;
     private int maxLitersInTank;
