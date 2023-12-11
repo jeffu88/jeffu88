@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="481a76b3-a2b6-40a2-89ad-b0dac5c8409c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/ArraysAndArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysAndArrayList/src/ArraysAndArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/GoodDragonVsBadGhost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/NPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/PlayerCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gooddragonvsbadghostgame/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/gooddragonvsbadghostgame/GoodDragonVsBadGhost-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/src/main/java/com/example/helloworldjavafx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/src/main/java/com/example/helloworldjavafx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldJavaFX/src/main/resources/com/example/helloworldjavafx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/src/Lab4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/LottoTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lotto/src/main/resources/com/example/lotto/lotto-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/src/main/java/com/example/lotto/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/src/main/java/com/example/lotto/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/src/main/java/com/example/lotto/LottoTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject/src/main/resources/com/example/lotto/lotto-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/src/main/java/com/example/lottoproject1/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/src/main/java/com/example/lottoproject1/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/src/main/java/com/example/lottoproject1/LottoTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LottoProject1/src/main/resources/com/example/lottoproject1/lotto-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/MidTerm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/src/MidTerm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/src/MidTerm17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MidTerm/src/MidTerm18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/Project0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/src/PP/Rectangular/PP/Project0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 0/src/PP/Rectangular/PP/RectFence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/RandomNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomNumbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/Week 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/src/Week6/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/src/Week6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/Week5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week5/src/Week5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/Week6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week6/src/Week6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/com/example/demo1/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jeffu88"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4d2b5502-6451-4baa-b46b-9f274e101fa8" />
+        <option name="url" value="https://github.com/jeffu88/Courserepository.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZMdFbArd8x6Su4rNj1VAcRjYVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GoodDragonVsBadGhost.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jeffu/OneDrive/Documents/GitHub/jeffu88/AdventureGame",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.gooddragonvsbadghostgame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GoodDragonVsBadGhost">
+    <configuration name="GoodDragonVsBadGhost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gooddragonvsbadghostgame.GoodDragonVsBadGhost" />
+      <module name="GoodDragonvsBadGhostGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gooddragonvsbadghostgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gooddragonvsbadghostgame.HelloApplication" />
+      <module name="GoodDragonvsBadGhostGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gooddragonvsbadghostgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GoodDragonVsBadGhost" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="481a76b3-a2b6-40a2-89ad-b0dac5c8409c" name="Changes" comment="" />
+      <created>1702235803005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702235803005</updated>
+    </task>
+    <servers />
+  </component>
+</project>
