@@ -14,9 +14,6 @@ import java.io.IOException;
 
 public class HelloController {
 
-    private final GoodDragonVsBadGhost game;
-    FXMLLoader loader = new FXMLLoader(getClass().getResource("GoodDragonVsBadGhost-view.fxml"));
-    Parent root = loader.load();
 
     @FXML
     private Label npcStatsLabel;
@@ -44,11 +41,7 @@ public class HelloController {
     @FXML
     private ImageView roomImageView;
 
-    public HelloController() throws IOException {
-        game = new GoodDragonVsBadGhost();
-    }
-
-    @FXML
+     @FXML
     public void leftButtonClicked(ActionEvent actionEvent) {
         StringBuilder textArea = new StringBuilder();
         textArea.append("You clicked left!\n");
@@ -112,9 +105,6 @@ public class HelloController {
         // Example: game.handleSleepButtonClick();
     }
 
-    public void setGame(GoodDragonVsBadGhost goodDragonVsBadGhost) {
-    }
-
-    public void setIntroImage(String introImageView) {
+       public void setIntroImage(String introImageView) {
     }
 }

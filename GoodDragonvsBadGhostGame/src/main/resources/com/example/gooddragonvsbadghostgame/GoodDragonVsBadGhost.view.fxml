@@ -2,6 +2,7 @@
 
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.ColumnConstraints?>
@@ -54,6 +55,11 @@
             </rowConstraints>
             <children>
                 <ImageView fx:id="roomImageView" fitHeight="100.0" fitWidth="100.0" />
+            <ImageView fitHeight="245.0" fitWidth="455.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true">
+               <image>
+
+               </image>
+            </ImageView>
             </children>
         </GridPane>
     </center>
